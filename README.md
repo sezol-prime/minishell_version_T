@@ -1,2 +1,2 @@
 # minishell_version_T
-no
+first upload 10/29, errors in makefile
